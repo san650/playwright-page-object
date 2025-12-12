@@ -1,5 +1,5 @@
 {
-  "name": "playwright-page-objects",
+  "name": "playwright-page-object",
   "version": "1.0.0",
   "description": "Better and simpler page objects for Playwright tests",
   "main": "index.js",
@@ -8,14 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/san650/playwright-page-objects.git"
+    "url": "https://github.com/san650/playwright-page-object"
   },
   "keywords": [
+    "e2e",
+    "integration",
     "page-object",
     "playwright",
-    "e2e",
-    "unit",
-    "test"
+    "test",
+    "unit"
   ],
   "author": "Santiago Ferreira <san650@gmail.com>",
   "license": "MIT",
